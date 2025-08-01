@@ -18,8 +18,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=BhanuPrakash3329&repo=ML_Project&theme=shadow_green)](https://github.com/BhanuPrakash3329/ML_Project)
+### 🔝 Top Contributed Repos
+
+[![Unstructured_to_structured_Data](https://github-readme-stats.vercel.app/api/pin/?username=BhanuPrakash3329&repo=Unstructured_to_structured_Data&theme=dark&border_color=30363d)](https://github.com/BhanuPrakash3329/Unstructured_to_structured_Data)
+[![Student_Growth_Predictor](https://github-readme-stats.vercel.app/api/pin/?username=BhanuPrakash3329&repo=Student_Growth_Predictor&theme=dark&border_color=30363d)](https://github.com/BhanuPrakash3329/Student_Growth_Predictor)
+[![Netflix_Analysis](https://github-readme-stats.vercel.app/api/pin/?username=BhanuPrakash3329&repo=Netflix_Analysis&theme=dark&border_color=30363d)](https://github.com/BhanuPrakash3329/Netflix_Analysis)
+[![ML_Project](https://github-readme-stats.vercel.app/api/pin/?username=BhanuPrakash3329&repo=ML_Project&theme=dark&border_color=30363d)](https://github.com/BhanuPrakash3329/ML_Project)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BhanuPrakash3329&icon=0&color=0)](https://visitcount.itsvg.in)
