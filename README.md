@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BhanuPrakash3329&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=BhanuPrakash3329&repo=ML_Project&theme=shadow_green)](https://github.com/BhanuPrakash3329/ML_Project)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BhanuPrakash3329&icon=0&color=0)](https://visitcount.itsvg.in)
